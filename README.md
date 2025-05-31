@@ -19,6 +19,14 @@ Full-Stack Development · Machine Learning · Blockchain and Onchain Data Analyt
 🔗 **See more of my data science work:** [datascienceportfol.io/ndifreke](https://www.datascienceportfol.io/ndifreke)
 
 
+### 📊 My GitHub Stats
+![Ndifreke Ekanem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ndifreke000&show_icons=true&theme=dark&count_private=true)
+
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Ndifreke000&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ndifreke000&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
