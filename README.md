@@ -5,7 +5,7 @@ I'm a **Full-Stack Developer**, **AI/ML Engineer**, **On-chain Analyst & Researc
 ## 🛠️ Skills
 
 **Languages & Frameworks:**  
-Rust · JavaScript · Python · R · Node.js · Express · React · Next.js
+Rust · JavaScript · Python · R · Node.js · Express · React · Next.js · Typescript 
 
 **Domains:**  
 Full-Stack Development · Machine Learning · Blockchain and Onchain Data Analytics · Research
