@@ -12,7 +12,7 @@ Full-Stack Development · Machine Learning · Blockchain and Onchain Data Analyt
 
 ## 📫 Contact Me
 
-📱 **Phone:** (+234) 0848 291 293  
+📱 **Phone:** (+234) 08148291293  
 🐦 **X (Twitter):** [@Ndii_Ekanem](https://x.com/Ndii_Ekanem)  
 💬 **Discord:** Yosemite00
 
