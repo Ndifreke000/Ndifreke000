@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ndifreke Ekanem
 
-I'm a **Full-Stack Developer**, **AI/ML Engineer**, **On-chain Analyst & Researcher**, and an occasional (not-so-great) **Chess Player**. I build data-driven tools, full-stack apps, ML models, research blockchain ecosystems, and explore how machine learning can shape the decentralized future.
+I'm a **Full-Stack Developer**, **AI/ML Engineer**, **On-chain Analyst & Researcher**, and an occasional (not-so-great) **Chess Player**. I build data-driven tools, full-stack apps, ML models, research blockchain ecosystems using queries and explore how machine learning can shape the decentralized future.
 
 ## 🛠️ Skills
 
